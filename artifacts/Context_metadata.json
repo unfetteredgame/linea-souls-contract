@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"token/Contract_flattened.sol": "Context"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"token/Contract_flattened.sol": {
+			"keccak256": "0x08ac70c3e0c5bb58d24b3bd9a0da1a70b7ec2c88dd2e5504555fc0ab5c818f9c",
+			"urls": [
+				"bzz-raw://dff40224346226aee16efadd984d5bfad625edc5546712e100aad26156c327ef",
+				"dweb:/ipfs/QmPE9W7PpAKiJ1UpMbCufp2eP484RQ9hRr8RE17g6t9TLf"
+			]
+		}
+	},
+	"version": 1
+}
